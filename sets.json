@@ -1,0 +1,509 @@
+{
+  "schemaVersion": 2,
+  "edition": "public",
+  "sets": [
+    {
+      "id": "ku-2026-fit-humanities-am",
+      "university": "고려대학교",
+      "academicYear": 2026,
+      "admission": "수시모집 계열적합전형",
+      "track": "인문계열",
+      "session": "오전",
+      "title": "갈등을 바라보는 태도와 해결 방법",
+      "sourceTitle": "2026학년도 고려대학교 대학별고사 선행학습 영향평가 자체평가보고서",
+      "sourceUrl": "https://ipsi.theschools.co.kr/eval/019.pdf",
+      "sourceHostNote": "외부 사본 · 쪽 바로가기용이에요.",
+      "officialLandingUrl": "https://oku.korea.ac.kr/oku/cms/FR_BBS_CON/BoardView.do?BBS_SEQ=88&BOARD_SEQ=2&MENU_ID=720&SITE_NO=2&pageNo=1&pagePerCnt=10",
+      "pages": {
+        "printed": [
+          34,
+          35
+        ],
+        "pdf": [
+          38,
+          39
+        ],
+        "analysisPrinted": [
+          36,
+          39
+        ],
+        "analysisPdf": [
+          40,
+          43
+        ]
+      },
+      "classification": "원문 있어야 가능",
+      "verifiedAt": "2026-10-27",
+      "timing": {
+        "preparationMinutes": 21,
+        "answerMinutes": 7,
+        "source": "2026학년도 문항카드 · 인쇄 34쪽 / PDF 38쪽",
+        "note": "이 기출 회차에 적힌 시간이에요. 지원 학년도의 전형 안내와 구분해요.",
+        "basis": "기출 회차 공식 시간",
+        "combined": false
+      },
+      "summary": "서로 다른 상대를 만났을 때 생기는 갈등을 살펴보는 세트예요. 인물의 태도와 국가의 대응을 비교하고, 두 윤리적 관점을 역사 상황에 대 봐요. 마지막에는 상대를 이해하는 방식의 변화를 다른 갈등 상황의 해결책으로 연결해요.",
+      "summaryLabel": "이 자료에서 새로 쓴 읽기 안내예요. 원문을 대신하지 않아요.",
+      "passageSummaries": [
+        {
+          "label": "(가)",
+          "summary": "도움을 구하는 사람과 권위를 앞세우는 인물이 만나는 장면이에요. 상대의 말을 듣는 태도를 살펴봐요."
+        },
+        {
+          "label": "(나)",
+          "summary": "청과 영국 사이의 무역 갈등을 다뤄요. 각 국가가 질서와 이익을 어떻게 바라보는지 살펴봐요."
+        },
+        {
+          "label": "(다)",
+          "summary": "화쟁과 세계 시민주의를 설명해요. 두 생각을 갈등을 판단할 기준으로 읽어요."
+        },
+        {
+          "label": "(라)",
+          "summary": "고양이를 대하는 화자가 자신의 해석을 돌아보는 글이에요. 상대의 관점을 이해하는 변화에 주목해요."
+        }
+      ],
+      "questions": [
+        {
+          "id": "ku26-am-1",
+          "number": 1,
+          "text": "(가)의 고위층 인사와 (나)의 청을 같은 기준으로 비교해요. 태도의 공통점과 차이점을 각각 설명해요.",
+          "skills": [
+            "같은 기준으로 비교해요"
+          ],
+          "references": [
+            "(가)",
+            "(나)"
+          ],
+          "guide": "상대를 대하는 태도와 질서를 유지하는 방식을 기준으로 잡아요. 양쪽 글의 근거를 함께 붙여요.",
+          "classification": "원문 있어야 가능"
+        },
+        {
+          "id": "ku26-am-2",
+          "number": 2,
+          "text": "(나)의 청과 영국이 각각 (다)의 화쟁과 세계 시민주의를 어떻게 평가할지 설명해요. 두 국가와 두 생각을 빠짐없이 다뤄요.",
+          "skills": [
+            "기준을 사례에 대 봐요"
+          ],
+          "references": [
+            "(나)",
+            "(다)"
+          ],
+          "guide": "청·영국을 두 줄로, 화쟁·세계 시민주의를 두 칸으로 나눠 메모해요. 각 입장의 이해관계와 글의 근거를 연결해요.",
+          "classification": "원문 있어야 가능"
+        },
+        {
+          "id": "ku26-am-3",
+          "number": 3,
+          "text": "(라)의 화자가 무엇을 깨달았는지 설명해요. 그 깨달음을 (가)와 (나)의 갈등 해결에 어떻게 쓸 수 있을지 말해요.",
+          "skills": [
+            "다른 문제에도 써 봐요"
+          ],
+          "references": [
+            "(가)",
+            "(나)",
+            "(라)"
+          ],
+          "guide": "깨달음의 공통 원리를 먼저 말해요. 인물 사이의 갈등과 국가 사이의 갈등에는 각각 어떻게 적용할지 나눠 설명해요.",
+          "classification": "원문 있어야 가능"
+        }
+      ],
+      "questionWording": "원문 문항의 요구를 보존해 이 자료의 말투로 다시 썼어요. 정확한 문구와 밑줄 표시는 원문 PDF 39쪽에서 봐요.",
+      "studentAvailable": true,
+      "sourceRole": "pageMirror",
+      "programmeIds": [
+        "p050"
+      ],
+      "setScope": "같은 회차의 세 문항을 함께 연습해요."
+    },
+    {
+      "id": "snu-2026-general-humanities",
+      "university": "서울대학교",
+      "academicYear": 2026,
+      "admission": "수시모집 일반전형 면접 및 구술고사",
+      "track": "인문학",
+      "session": "원문에 오전·오후 표기 없음",
+      "title": "도덕적 이해와 문학의 역할",
+      "sourceTitle": "2026학년도 서울대학교 수시모집 일반전형 면접 및 구술고사 기출 제시문 및 출제근거",
+      "sourceUrl": "https://snuarori.snu.ac.kr/admission/warehouse?dataidx=64&md=download",
+      "sourceRole": "officialPdf",
+      "sourceHostNote": "서울대는 외부 PDF 바로 열기가 제한돼요. 아로리에서 [2026학년도] 일반전형 기출 제시문 첨부를 연 뒤 1–2쪽을 봐요.",
+      "officialLandingUrl": "https://admission.snu.ac.kr/materials/downloads/samples?bbsidx=167141&md=v",
+      "pages": {
+        "pdf": [
+          1,
+          2
+        ],
+        "printed": [
+          1,
+          2
+        ]
+      },
+      "classification": "원문 있어야 가능",
+      "verifiedAt": "2026-10-28",
+      "timing": {
+        "preparationMinutes": 30,
+        "answerMinutes": 15,
+        "combined": false,
+        "basis": "2027 운영 안내에 맞춘 연습",
+        "source": "2027 서울대 수시모집 안내 인쇄 21쪽 / PDF 25쪽",
+        "sourceUrl": "https://admission.snu.ac.kr/webdata/admission/files/2027susi.pdf#page=25",
+        "note": "2026 기출을 2027 인문 모집단위의 30분 준비·15분 내외 면접에 맞춰 연습해요. 다른 영역을 함께 보는 실제 면접 전체 시간과 구분해요."
+      },
+      "summary": "도덕적 이해에 필요한 것이 무엇인지 비교하는 세트예요. 추론, 직접 경험, 상상과 공감이 어떤 역할을 하는지 살펴보고 문학을 통한 이해로 연결해요.",
+      "summaryLabel": "이 자료에서 새로 쓴 읽기 안내예요. 원문을 대신하지 않아요.",
+      "passageSummaries": [
+        {
+          "label": "(가)",
+          "summary": "옳고 그름을 자기 말로 설명하고 비슷한 상황에 적용하는 능력을 살펴봐요."
+        },
+        {
+          "label": "(나)",
+          "summary": "도덕적 의미를 지닌 상황을 직접 경험하는 것이 어떤 이해를 만드는지 살펴봐요."
+        },
+        {
+          "label": "(다)",
+          "summary": "상상과 공감, 다른 사람의 시선이 자기 판단에 어떤 영향을 주는지 살펴봐요."
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "text": "도덕적 이해에 대한 (가)와 (나)의 관점 중 하나를 고르고, 그 관점에서 다른 관점을 비판해요.",
+          "guide": "입장을 먼저 고르고, 두 관점이 도덕적 이해의 조건을 어디에 두는지 비교해요. 상대 관점이 설명하지 못하는 경우를 근거로 들어요.",
+          "classification": "원문 있어야 가능",
+          "id": "snu-2026-general-humanities-1"
+        },
+        {
+          "number": 2,
+          "text": "(가)·(나)·(다)가 어떻게 이어지는지 밝혀서, 문학을 통해 도덕적 이해가 가능하다는 주장을 뒷받침해요.",
+          "guide": "세 글을 따로 요약하지 않아요. 문학을 읽을 때 추론·경험·상상과 공감이 함께 어떻게 작동하는지 연결해요.",
+          "classification": "원문 있어야 가능",
+          "pdfPage": 2,
+          "id": "snu-2026-general-humanities-2"
+        }
+      ],
+      "questionWording": "원문 문항에서 해야 할 일을 이 자료의 말투로 다시 정리했어요. 정확한 문구·수식·그림은 원문 PDF에서 봐요.",
+      "studentAvailable": true,
+      "programmeIds": [
+        "p152"
+      ],
+      "setScope": "2026 공개 문항 중 인문학 영역 한 세트예요. 사회과학 등 다른 영역까지 포함한 지원자별 면접 전체와는 달라요.",
+      "requiresOfficialPage": true,
+      "sourceEntryUrl": "https://snuarori.snu.ac.kr/admission/warehouse",
+      "additionalOfficialUrl": "https://admission.snu.ac.kr/materials/downloads/samples?bbsidx=167138&md=v"
+    },
+    {
+      "id": "yonsei-2026-active-humanities",
+      "university": "연세대학교",
+      "academicYear": 2026,
+      "admission": "학생부종합전형 활동우수형",
+      "track": "인문·통합계열",
+      "session": "원문에 오전·오후 표기 없음",
+      "title": "선택과 실질적인 자유",
+      "sourceTitle": "2026학년도 연세대학교 선행학습 영향평가 결과보고서 별책",
+      "sourceUrl": "https://admission.yonsei.ac.kr/seoul/upload/bbs/20260327160953Z3AHFA.PDF",
+      "sourceRole": "officialPdf",
+      "sourceHostNote": "대학 입학처에서 공개한 원문 PDF예요.",
+      "officialLandingUrl": "https://admission.yonsei.ac.kr/seoul/admission/html/counsel/dataView.asp?BBS_NO=3490&s_code=BBS_SUBJECT&s_data=2026&s_page=1",
+      "pages": {
+        "pdf": [
+          12,
+          13
+        ],
+        "printed": [
+          8,
+          9
+        ]
+      },
+      "classification": "원문 있어야 가능",
+      "verifiedAt": "2026-10-28",
+      "timing": {
+        "preparationMinutes": 8,
+        "answerMinutes": 5,
+        "combined": false,
+        "basis": "2027 운영 안내에 맞춘 연습",
+        "source": "2027 연세대 수시모집요강 인쇄 63쪽 / PDF 69쪽",
+        "sourceUrl": "https://admission.yonsei.ac.kr/seoul/upload/guide/20260529204109T8NZNJ.PDF#page=69",
+        "note": "2026 기출을 2027 활동우수형 현장 녹화 안내의 준비 8분·면접 5분에 맞춰 연습해요. 의예과 방식과 구분해요."
+      },
+      "summary": "선택권이 주는 이익과 선택을 관리하는 방식의 문제를 함께 살펴봐요. 자기 관리 앱과 정보 추천 알고리즘을 실질적인 자유라는 기준으로 비교해요.",
+      "summaryLabel": "이 자료에서 새로 쓴 읽기 안내예요. 원문을 대신하지 않아요.",
+      "passageSummaries": [
+        {
+          "label": "[가]",
+          "summary": "요양원 연구에서 선택권을 얻고 잃는 일이 노인들의 생활에 미친 영향을 살펴봐요."
+        },
+        {
+          "label": "[나]",
+          "summary": "자가 추적 앱이 자기 통제의 느낌과 부담을 함께 만드는 모습을 살펴봐요."
+        },
+        {
+          "label": "[다]",
+          "summary": "추천 알고리즘이 정보를 고르고 다른 관점을 걸러 내는 방식을 살펴봐요."
+        },
+        {
+          "label": "[라]",
+          "summary": "선택의 수보다 그 선택이 삶과 자유에 실제로 어떤 도움을 주는지 살펴봐요."
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "text": "[나]의 관점에서 [가]의 연구 결과를 설명해요.",
+          "guide": "선택권을 가졌을 때뿐 아니라 잃은 뒤의 결과도 다뤄요. 자기 통제의 느낌과 부담을 기준으로 연결해요.",
+          "classification": "원문 있어야 가능",
+          "id": "yonsei-2026-active-humanities-1"
+        },
+        {
+          "number": 2,
+          "text": "[라]의 관점을 기준으로 [나]와 [다]의 공통점과 차이점을 설명해요.",
+          "guide": "실질적인 자유라는 같은 기준을 대요. 자기 감시와 정보의 선별이 각각 어떤 제약을 만드는지 나눠 설명해요.",
+          "classification": "원문 있어야 가능",
+          "pdfPage": 13,
+          "id": "yonsei-2026-active-humanities-2"
+        }
+      ],
+      "questionWording": "원문 문항에서 해야 할 일을 이 자료의 말투로 다시 정리했어요. 정확한 문구·수식·그림은 원문 PDF에서 봐요.",
+      "studentAvailable": true,
+      "programmeIds": [
+        "p196"
+      ],
+      "setScope": "활동우수형 인문·통합계열 공개 문항 두 개를 함께 연습해요. 기회균형이나 국제형의 기출로 표시하지 않아요."
+    },
+    {
+      "id": "hanyang-2026-interview-natural",
+      "university": "한양대학교",
+      "academicYear": 2026,
+      "admission": "학생부종합(면접형) 제시문 기반 면접",
+      "track": "수학·물리학·화학·생명과학",
+      "session": "원문에 오전·오후 표기 없음",
+      "title": "수학과 과학의 원리를 말로 설명해요",
+      "sourceTitle": "2026학년도 한양대학교 학생부종합(면접형) 제시문 면접 고사 문제지 (공개용)",
+      "sourceUrl": "https://go.hanyang.ac.kr/file/download.do?menu=boardfile&file_no=3430",
+      "sourceRole": "officialPdf",
+      "sourceHostNote": "대학 입학처에서 공개한 원문 PDF예요.",
+      "officialLandingUrl": "https://go.hanyang.ac.kr/web/pds/pds_view.do?bn=20603&m_type=SUSI&nPage=1&ct02=ns00&ct04=",
+      "pages": {
+        "pdf": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "printed": []
+      },
+      "classification": "원문 있어야 가능",
+      "verifiedAt": "2026-10-28",
+      "timing": {
+        "preparationMinutes": 13,
+        "answerMinutes": 7,
+        "combined": true,
+        "totalMinutes": 20,
+        "basis": "2027 운영 안내와 연습 배분",
+        "source": "2027 한양대 수시모집요강 인쇄 27쪽 / PDF 34쪽",
+        "sourceUrl": "https://go.hanyang.ac.kr/resources/upload_data/mojib/20260908092452487_.pdf#page=34",
+        "note": "2027 안내는 준비·녹화를 합쳐 20분 내외예요. 준비 13분·답변 7분은 이 자료에서 정한 연습 배분이며 공식 구분이 아니에요."
+      },
+      "summary": "수학의 함수와 역함수, 물리의 빛과 물질파, 화학의 에너지, 생명과학의 막과 에너지 생성을 함께 묶은 공개 문제지예요. 식과 그림을 읽고 결론이 나오는 과정을 말하는 연습을 해요.",
+      "summaryLabel": "이 자료에서 새로 쓴 읽기 안내예요. 원문을 대신하지 않아요.",
+      "passageSummaries": [
+        {
+          "label": "수학",
+          "summary": "조각별로 정의된 함수의 연속성·역함수와 넓이·적분의 관계를 살펴봐요."
+        },
+        {
+          "label": "물리학",
+          "summary": "수소 원자의 에너지 준위와 광전 효과, 물질파를 연결해요."
+        },
+        {
+          "label": "화학",
+          "summary": "메탄올 연소의 산화수와 결합 에너지·반응 엔탈피를 연결해요."
+        },
+        {
+          "label": "생명과학",
+          "summary": "원문 그림의 막 공간과 수소 이온의 이동을 근거로 판단해요."
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "text": "원문 함수 f와 매개변수 t의 조건을 확인하고, 1-1~1-4를 차례로 설명해요.",
+          "guide": "함수의 경계에서 연속성을 먼저 확인해요. 역함수가 존재하는 이유를 설명한 뒤 그림의 넓이와 적분을 연결해요. 마지막 부등식은 앞선 조건을 함께 사용해요.",
+          "classification": "원문 있어야 가능",
+          "subquestions": [
+            "1-1. 주어진 구간에서 f가 연속인 이유를 설명해요.",
+            "1-2. 그 구간에서 역함수가 존재하는 이유를 설명해요.",
+            "1-3. 원문에서 정한 직사각형의 넓이 S(t)와 역함수의 정적분이 같은 이유를 설명해요.",
+            "1-4. S(t)=1을 만족할 때 원문에 제시된 정적분 부등식이 맞는 이유를 설명해요."
+          ],
+          "pdfPage": 1,
+          "id": "hanyang-2026-interview-natural-1"
+        },
+        {
+          "number": 2,
+          "text": "수소 원자가 방출하는 빛과, 그 빛이 방출시킨 광전자의 파장을 비교해요.",
+          "guide": "에너지 차이로 빛의 파장을 비교해요. 광전자의 운동 에너지는 일함수를 뺀 뒤 구하고, 이를 물질파의 파장과 연결해요.",
+          "classification": "원문 있어야 가능",
+          "subquestions": [
+            "2-1. 원문의 두 전자 전이에서 생기는 빛 A·B의 파장 비를 설명해요.",
+            "2-2. 원문 일함수 조건을 적용해 두 광전자의 최소 물질파 파장 비를 설명해요."
+          ],
+          "pdfPage": 2,
+          "id": "hanyang-2026-interview-natural-2"
+        },
+        {
+          "number": 3,
+          "text": "메탄올 연소 반응의 산화·환원과 에너지 관계를 설명해요.",
+          "guide": "원문의 반응식과 표를 함께 봐요. 계수·단위·엔탈피 부호를 확인하며 계산해요.",
+          "classification": "원문 있어야 가능",
+          "subquestions": [
+            "3-1. 메탄올과 이산화 탄소 속 탄소의 산화수를 구하고, 메탄올이 어떤 역할을 하는지 설명해요.",
+            "3-2. 원문의 a·b·c가 어떤 관계인지 설명하고 크기를 비교해요.",
+            "3-3. 물 45g이 생성될 때 반응 엔탈피를 a로 나타내고 설명해요."
+          ],
+          "pdfPage": 3,
+          "id": "hanyang-2026-interview-natural-3"
+        },
+        {
+          "number": 4,
+          "text": "원문 그림 (가)·(나)의 공간과 수소 이온 이동을 읽고, 에너지 생성 과정을 설명해요.",
+          "guide": "그림을 보지 않고 공간 번호를 외우지 않아요. 수소 이온 농도와 막의 위치를 근거로 판단해요.",
+          "classification": "원문 있어야 가능",
+          "subquestions": [
+            "4-1. 두 그림에서 확산으로 수소 이온이 이동하는 방향을 각각 설명해요.",
+            "4-2. 캘빈 회로와 TCA 회로가 일어나는 공간을 원문 Ⅰ~Ⅳ에서 고르고 이유를 설명해요.",
+            "4-3. 원문 학생 A의 말에서 잘못된 부분을 찾고 이유를 설명해요."
+          ],
+          "pdfPage": 4,
+          "id": "hanyang-2026-interview-natural-4"
+        }
+      ],
+      "questionWording": "원문 문항에서 해야 할 일을 이 자료의 말투로 다시 정리했어요. 정확한 문구·수식·그림은 원문 PDF에서 봐요.",
+      "studentAvailable": true,
+      "programmeIds": [
+        "p312"
+      ],
+      "setScope": "공개 문제지 네 과목을 한 묶음으로 정리했어요. 지원자가 실제로 풀 과목과 운영 순서는 해당 전형 안내를 따라요."
+    },
+    {
+      "id": "skku-2026-science-am",
+      "university": "성균관대학교",
+      "academicYear": 2026,
+      "admission": "수시모집 과학인재전형",
+      "track": "수학·물리학·화학·생명과학",
+      "session": "1교시(오전)",
+      "title": "수학·과학의 개념을 연결해 설명해요",
+      "sourceTitle": "2026학년도 성균관대학교 선행학습 영향평가 자체평가보고서",
+      "sourceUrl": "https://admission.skku.edu/upload/board/20260327102311ELP8CB.pdf",
+      "sourceRole": "officialPdf",
+      "sourceHostNote": "대학 입학처에서 공개한 원문 PDF예요.",
+      "officialLandingUrl": "https://admission.skku.edu/admission/html/ipsi/noticeView.html?idx=59455",
+      "pages": {
+        "pdf": [
+          206,
+          209,
+          212,
+          215
+        ],
+        "printed": [
+          202,
+          205,
+          208,
+          211
+        ]
+      },
+      "classification": "원문 있어야 가능",
+      "verifiedAt": "2026-10-28",
+      "timing": {
+        "preparationMinutes": 10,
+        "answerMinutes": 14,
+        "combined": false,
+        "basis": "이 자료에서 정한 연습 시간",
+        "source": "문항카드 16~19의 예상 소요 시간은 각각 6·3·2·3분이에요.",
+        "note": "학교의 준비·면접 운영 시간은 이 문항카드만으로 확인하지 못했어요. 준비 10분·답변 14분은 연습용 기본값이에요. 문항별 예상 소요 시간의 합을 실제 면접 시간으로 단정하지 않아요."
+      },
+      "summary": "오전 문항카드 네 개를 한 묶음으로 읽어요. 도형의 관계, 에너지와 운동량, 기체 반응, 유전자 발현을 각각 원문의 식·그림·조건으로 설명해요.",
+      "summaryLabel": "이 자료에서 새로 쓴 읽기 안내예요. 원문을 대신하지 않아요.",
+      "passageSummaries": [
+        {
+          "label": "수학 · 문항카드 16",
+          "summary": "삼각형의 외접원과 외분점, 평행 조건을 연결해요."
+        },
+        {
+          "label": "물리학 · 문항카드 17",
+          "summary": "추의 운동과 충돌을 에너지·운동량·충격량으로 설명해요."
+        },
+        {
+          "label": "화학 · 문항카드 18",
+          "summary": "기체 반응 전후의 압력과 몰수를 연결하고 산화·환원을 판단해요."
+        },
+        {
+          "label": "생명과학 · 문항카드 19",
+          "summary": "젖당 오페론의 조절과 단백질 생성 조건을 살펴봐요."
+        }
+      ],
+      "questions": [
+        {
+          "number": 1,
+          "text": "원문의 외분점과 외접원 그림을 보고, 평행 조건을 식으로 설명해요.",
+          "guide": "닮음이나 각의 관계를 표시하고 외분비와 연결해요. 좌표 조건을 적용할 때는 가능한 해를 빠짐없이 살펴봐요.",
+          "classification": "원문 있어야 가능",
+          "subquestions": [
+            "1-ⅰ. AB와 CD가 평행일 때 1/m을 원문에서 지정한 길이와 각의 식으로 나타내요.",
+            "1-ⅱ. 원문의 좌표·포물선·m=3 조건에서 가능한 점 C의 y좌표의 곱을 구하고 이유를 설명해요."
+          ],
+          "pdfPage": 206,
+          "cardEstimatedMinutes": 6,
+          "id": "skku-2026-science-am-1"
+        },
+        {
+          "number": 2,
+          "text": "원문의 추와 벽 그림을 보고, 충돌 전후의 운동량과 충격량을 설명해요.",
+          "guide": "에너지 보존으로 충돌 직전 속력을 구한 뒤 방향을 정해 운동량 변화를 계산해요.",
+          "classification": "원문 있어야 가능",
+          "subquestions": [
+            "2-ⅰ. 벽과 충돌하기 직전 추의 운동량을 구하고 근거를 설명해요.",
+            "2-ⅱ. 같은 속력으로 튕겨 나갈 때 추에 가해진 충격량의 크기를 구해요.",
+            "2-ⅲ. 푹신한 벽에 붙어 멈출 때 추에 가해진 충격량의 크기를 구해요."
+          ],
+          "pdfPage": 209,
+          "cardEstimatedMinutes": 3,
+          "id": "skku-2026-science-am-2"
+        },
+        {
+          "number": 3,
+          "text": "강철 용기 속 질소와 수소가 반응한 뒤의 기체 조성을 설명해요.",
+          "guide": "같은 온도와 부피에서 압력비를 전체 몰수 비로 바꿔요. 반응식의 계수와 남은 기체를 함께 계산해요.",
+          "classification": "원문 있어야 가능",
+          "subquestions": [
+            "3-ⅰ. 원문의 반응 전후 압력 조건으로 질소와 수소의 처음 몰수 비를 구해요.",
+            "3-ⅱ. 원문의 용기 부피·온도·압력을 이용해 생성된 암모니아의 몰수를 구하고, 산화제와 환원제를 설명해요."
+          ],
+          "pdfPage": 212,
+          "cardEstimatedMinutes": 2,
+          "id": "skku-2026-science-am-3"
+        },
+        {
+          "number": 4,
+          "text": "원문 젖당 오페론 그림과 돌연변이 조건으로 단백질 A의 생성을 설명해요.",
+          "guide": "프로모터·작동 부위·억제 단백질의 역할을 나눠요. 원핵세포와 진핵세포의 차이도 확인해요.",
+          "classification": "원문 있어야 가능",
+          "subquestions": [
+            "4-ⅰ. 프로모터 돌연변이 뒤 단백질 A가 두 배 생성될 수 있는 이유를 설명해요.",
+            "4-ⅱ. 포도당을 주어도 단백질 A가 만들어지는 현상을 설명하기에 부적절한 원문 항목을 고르고 이유를 설명해요.",
+            "4-ⅲ. 정상적인 대장균 S에 관한 원문 두 설명 중 틀린 것을 고르고 이유를 설명해요."
+          ],
+          "pdfPage": 215,
+          "cardEstimatedMinutes": 3,
+          "id": "skku-2026-science-am-4"
+        }
+      ],
+      "questionWording": "원문 문항에서 해야 할 일을 이 자료의 말투로 다시 정리했어요. 정확한 문구·수식·그림은 원문 PDF에서 봐요.",
+      "studentAvailable": true,
+      "programmeIds": [
+        "p169"
+      ],
+      "setScope": "같은 1교시(오전)의 문항카드 16~19예요. 오후 문항이나 성균인재전형 사례와 섞지 않아요."
+    }
+  ]
+}
